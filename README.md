@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, Ben Yusuf Can Cömertler</h1>
+<h1 align="center">Merhaba 👋, Ben Yusufcan Cömertler</h1>
 <h3 align="center">Frontend & Mobil Uygulama Geliştiricisi</h3>
 
 💡 **Hakkımda**  
@@ -32,7 +32,7 @@
 
 ---
 
-<h1 align="center">Hello 👋, I'm Yusuf Can Cömertler</h1>
+<h1 align="center">Hello 👋, I'm Yusufcan Cömertler</h1>
 <h3 align="center">Frontend & Mobile App Developer</h3>
 
 💡 **About Me**  
