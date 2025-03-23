@@ -19,10 +19,20 @@
 
 
 
-<h1 align="center">📫 **Bana Ulaşın** </h1>  
-<h3 align="center">[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusufcan-cömertler-9113a9156)  
-[![Twitter](https://img.shields.io/badge/X-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/cancomertlerr)  
-[![E-posta](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusufcomertler@gmail.com)  </h3>
+<h1 align="center">📫 Bana Ulaşın</h1>  
+<div align="center">
+  <a href="https://www.linkedin.com/in/yusufcan-cömertler-9113a9156">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <br>
+  <a href="https://x.com/cancomertlerr">
+    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <br>
+  <a href="mailto:yusufcomertler@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 
 ---
@@ -48,10 +58,20 @@
   
 
 
-<h1 align="center">📫 **Contact Me**  </h1> 
-<h3 align="center">[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusufcan-cömertler-9113a9156)  
-[![Twitter](https://img.shields.io/badge/X-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/cancomertlerr)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusufcomertler@gmail.com)  </h3>
+<h1 align="center">📫 Contact Me</h1>  
+<div align="center">
+  <a href="https://www.linkedin.com/in/yusufcan-cömertler-9113a9156">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <br>
+  <a href="https://x.com/cancomertlerr">
+    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <br>
+  <a href="mailto:yusufcomertler@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 ---
 
