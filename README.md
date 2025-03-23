@@ -21,7 +21,7 @@
 
 <h1 align="center">📫 Bana Ulaşın</h1>  
 <div align="center">
-  <a href="https://www.linkedin.com/in/yusufcan-cömertler-9113a9156">
+  <a href="https://www.linkedin.com/in/cancomertler">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <br>
@@ -60,7 +60,7 @@
 
 <h1 align="center">📫 Contact Me</h1>  
 <div align="center">
-  <a href="https://www.linkedin.com/in/yusufcan-cömertler-9113a9156">
+    <a href="https://www.linkedin.com/in/cancomertler">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <br>
