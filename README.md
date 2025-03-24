@@ -2,7 +2,7 @@
 <h3 align="center">Frontend & Mobil Uygulama Geliştiricisi</h3>
 
 💡 **Hakkımda**  
-- 🚀 React Native, TypeScript, Firebase, Redux, React, Vite ile geliştirme yapıyorum.  
+- 🚀 React Native, TypeScript, Firebase, Tailwind, Redux, React, Vite ile geliştirme yapıyorum.  
 - 🎨 UI/UX ve React ekosistemindeki üçüncü parti uygulamalara ilgi duyuyorum.  
 - 🔥 Açık kaynak projelere katkı sağlamayı hedefliyorum.  
 
@@ -41,7 +41,7 @@
 <h3 align="center">Frontend & Mobile App Developer</h3>
 
 💡 **About Me**  
-- 🚀 Developing with React Native, TypeScript, Firebase, Redux, React, Vite.  
+- 🚀 Developing with React Native, TypeScript, Firebase, Tailwind, Redux, React, Vite.  
 - 🎨 Passionate about UI/UX and third-party applications in the React ecosystem.  
 - 🔥 Aspiring to contribute to open-source projects.  
 
